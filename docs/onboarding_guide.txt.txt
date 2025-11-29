@@ -1,0 +1,5 @@
+Employee Onboarding Guide
+Step 1: Complete documentation in HR portal.
+Step 2: Setup email and laptop by day 1.
+Step 3: Introductory training in week 1: company culture, engineering stack, and expectations.
+Key contacts: HR - hr@rooman.net, IT - it-support@rooman.net

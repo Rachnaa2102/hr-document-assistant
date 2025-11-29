@@ -1,0 +1,4 @@
+Rooman Technologies - Overview
+Rooman Technologies builds AI-driven enterprise tools for HR, sales, and operations.
+Vision: Simplify HR processes using AI for recruitment, onboarding, and retention.
+Core products: Resume matching, Voice lead-calling agents, Talent matching for non-English speakers.
